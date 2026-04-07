@@ -14,7 +14,7 @@ Remember, your goal is to GenAI as much as _humanly_ possible to help solve this
 
 ### Ideation
 
-Brainstorm ideas for how to implement the idea, the needs parents may have, where the requisite data can be sourced, how school districts can be evaluated to meet parent needs, etc.
+Brainstorm ideas for how to implement the idea, the needs parents and teachers may have, where the requisite data can be sourced, how school districts can be evaluated according to parents' and teachers' needs, etc.
 
 ### Building
 
