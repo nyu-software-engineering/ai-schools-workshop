@@ -28,6 +28,8 @@ All code must be thoroughly unit tested and achieve 100% code coverage by the en
 
 Finished software must be deployed to make it available to its end users by the end of class time.
 
+All code and other assets must be pushed to GitHub.
+
 ## Presentation
 
 Student teams will be randomly picked to present their software in the final 20 minutes of class time. Presentations must be 5 minutes or less each. Each team must be ready to present.
