@@ -1,8 +1,8 @@
 # Instructions
 
-Mainstream media and social media discussions are flooded with predictions of gloom and doom for workers whose jobs are predicted to be taken over by artificial intelligence.
+Mainstream media and social media discussions are flooded with predictions of gloom and doom for workers whose jobs are predicted to be taken over by Artificial Intelligence (AI).
 
-This workshop will explore the use of Generative AI tools in the work of software development. Students will use these tools to ideate, build, test, and deploy software within one class session.
+This workshop will explore the use of Generative AI tools (GenAI) in the work of software development. Students will use these tools to ideate, build, test, and deploy software within one class session.
 
 ## The challenge
 
@@ -10,7 +10,7 @@ Use AI tools as much as you possibly can to build software that solves the follo
 
 Parents face growing concerns over the quality and nature of public education in the United States. Teachers share many of these same concerns when finding a meaningful job. Build software that helps parents and educators evaluate school districts across the country, based on publicly-available data.
 
-Remember, your goal is to Generative AI as much as humanly possible to help solve this challenge by the end of class time.
+Remember, your goal is to GenAI as much as _humanly_ possible to help solve this challenge by the end of class time.
 
 ### Ideation
 
